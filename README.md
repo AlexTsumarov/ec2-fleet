@@ -1,6 +1,6 @@
 # ec2-fleet
 
-UPDATE
+UPDATEUPDATE
 
 A distributed load test framework using Amazon EC2 instances.
 
