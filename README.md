@@ -1,5 +1,7 @@
 # ec2-fleet
 
+UPDATE
+
 A distributed load test framework using Amazon EC2 instances.
 
 This project makes it simple to launch and control lots of Amazon EC2 instances. By default, 
